@@ -1,4 +1,8 @@
-# Frontend
+# CodeUnity — Frontend
+
+> **Portfolio fork.** Этот репозиторий сохранён как frontend-часть командного проекта CodeUnity после завершения проекта в сентябре 2026 года. Моя основная зона ответственности в CodeUnity была связана с backend-инфраструктурой, серверными окружениями и деплоем; frontend-форк оставлен для сохранения полного контекста продукта. Исходный репозиторий: [CodeUnityTeam/Frontend](https://github.com/CodeUnityTeam/Frontend).
+
+## Технологии
 
 React + Vite + TypeScript.
 Архитектура — [Feature-Sliced Design](https://feature-sliced.design/)
